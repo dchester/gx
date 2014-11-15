@@ -135,7 +135,7 @@ gx(function*() {
 
 Use promisified libraries in a natural way.
 
-```
+```js
 // promisified `request` http client
 var pr = require('request-promise');
 
